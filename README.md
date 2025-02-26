@@ -25,3 +25,10 @@ After running the project, access Swagger to view api instruction
 ```bash
 🔗 http://localhost:8080/swagger-ui/index.html
 ```
+
+### 🚀 Flutter
+Go to user_application/lib/main.dart run command below for chrome app:
+```agsl
+flutter pub get
+flutter run -t lib/main.dart -d chrome
+```
